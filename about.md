@@ -17,4 +17,4 @@ This is an experiment to see if my poetry improves with practice. I aim to write
 
 I will still write long-form poetry whenever inspiration strikes. Those will be collected on my blog: [http://blog.tuhinanshu.com/category/poetry](http://blog.tuhinanshu.com/category/poetry). I may feature some of the better ones from this experiment there. Or I may expand on something that started here.
 
-In summary, this is a project that is solely intended for me. If you have somehow stumbled here and would like to share your thoughts, find me on Twitter: [@rajadain](https://twitter.com/rajadain)
+In summary, this is a project that is solely intended for me. If you have somehow stumbled here and would like to share your thoughts, find me on Twitter: [@rajadain]({{ site.author.url }})

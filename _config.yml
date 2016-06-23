@@ -11,6 +11,9 @@ url:                 https://rajadain.github.io/
 baseurl:             '/daily-verse'
 paginate:            5
 
+github:
+  repo:              https://github.com/rajadain/daily-verse
+
 # About/contact
 author:
   name:              Terence Tuhinanshu
