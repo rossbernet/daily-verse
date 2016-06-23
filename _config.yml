@@ -1,21 +1,21 @@
 gems:                [jekyll-paginate]
 
 # Permalinks
-permalink:           pretty
+permalink:           /:year-:month-:day.html
 
 # Setup
-title:               Lanyon
-tagline:             'A Jekyll theme'
-description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:                 http://lanyon.getpoole.com
+title:               Daily Verse
+tagline:             'a short verse every day'
+description:         'Made by <a href="https://twitter.com/rajadain" target="_blank">@rajadain</a>.'
+url:                 https://rajadain.github.io/daily-verse/
 baseurl:             ''
 paginate:            5
 
 # About/contact
 author:
-  name:              Mark Otto
-  url:               https://twitter.com/mdo
-  email:             markdotto@gmail.com
+  name:              Terence Tuhinanshu
+  url:               https://twitter.com/rajadain
+  email:             terence@tuhinanshu.com
 
 # Custom vars
 version:             1.0.0
