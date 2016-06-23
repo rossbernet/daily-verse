@@ -3,28 +3,18 @@ layout: page
 title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+My tagline on social media usually goes like this:
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+> poet. thinker.  
+> designer. developer.  
+> citizen of the world.
 
-There are currently two themes built on Poole:
+Of these, "poet" is probably the most neglected of all. While I have written some good poetry, not all of it is great. I think the reason for that is lack of education and practice. Whatever poetry I've been exposed to is largely because of my father, Dr Rajiv Trivedi, who has been a linguist, a dramatist, a writer, a Professor of English Literature, a documentarian, and much more: I've never had formal education in poetry. I write very sporadically, sometimes going years between poems.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+This is in sharp contrast to my job as a developer, a field in which I both have formal education and ample time to practice. It is quite incredible what nothing but practice allows you to do. Because I write so much code, any mistakes I make are taken in the stride. Because I write so little poetry, even the smallest mistake is agonized over and obsessed about.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+This is an experiment to see if my poetry improves with practice. I aim to write one small poem every day, without caring how good or bad it is, with the expectation that passively, automatically, my writing will improve over time. And since I don't expect to write masterpieces, I have the freedom to fall flat on my face every day, thus taking the pressure of writing away.
 
-## Setup
+I will still write long-form poetry whenever inspiration strikes. Those will be collected on my blog: http://blog.tuhinanshu.com/category/poetry. I may feature some of the better ones from this experiment there. Or I may expand on something that started here.
 
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+In summary, this is a project that is solely intended for me. If you have somehow stumbled here and would like to share your thoughts, find me on Twitter: [@rajadain](https://twitter.com/rajadain)
