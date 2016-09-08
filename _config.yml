@@ -5,7 +5,7 @@ permalink:           /:year-:month-:day.html
 
 # Setup
 title:               Daily Verse
-tagline:             'a short verse every day'
+tagline:             'a short verse (almost) every day'
 description:         'Made by <a href="https://twitter.com/rajadain" target="_blank">@rajadain</a>.'
 url:                 https://rajadain.github.io/
 baseurl:             '/daily-verse'
