@@ -26,6 +26,7 @@
     {% endfor %}
 
     <a class="sidebar-nav-item" href="{{ site.github.repo }}">GitHub</a>
+    <a class="sidebar-nav-item" id="theme-toggle" href="#">Night Mode</a>
     <span class="sidebar-nav-item">Currently v{{ site.version }}</span>
   </nav>
 
@@ -35,3 +36,36 @@
     </p>
   </div>
 </div>
+
+<script>
+  var toggleButton = document.getElementById('theme-toggle');
+
+  function getNightMode() {
+    return localStorage.getItem('nightMode') === 'true';
+  }
+
+  function setNightMode(value) {
+    localStorage.setItem('nightMode', value);
+  }
+
+  function render(nightMode) {
+    if (nightMode) {
+      document.body.classList.add('theme-night');
+      toggleButton.textContent = 'Day Mode';
+    } else {
+      document.body.classList.remove('theme-night');
+      toggleButton.textContent = 'Night Mode';
+    }
+  }
+
+  window.addEventListener('load', function() {
+    render(getNightMode());
+  });
+
+  toggleButton.addEventListener('click', function() {
+    var nightMode = getNightMode();
+    setNightMode(!nightMode);
+    render(!nightMode);
+    return false;
+  });
+</script>
