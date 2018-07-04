@@ -1,4 +1,4 @@
-gems:                [jekyll-paginate]
+plugins:             [jekyll-paginate]
 
 # Permalinks
 permalink:           /:year-:month-:day.html
