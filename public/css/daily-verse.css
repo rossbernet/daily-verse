@@ -8,3 +8,33 @@ h1, h2, h3, h4, h5, h6 {
     font-weight: 900;
     letter-spacing: normal;
 }
+
+/* Night */
+.theme-night {
+  background-color: #000000;
+  color: #eeeeee;
+}
+.theme-night h2 {
+  color: #999999;
+}
+.theme-night .sidebar,
+.theme-night .sidebar a,
+.theme-night .sidebar-toggle:active,
+.theme-night #sidebar-checkbox:checked ~ .sidebar-toggle {
+  color: #000000;
+  background-color: #eeeeee;
+}
+.theme-night .container a,
+.theme-night .sidebar-toggle,
+.theme-night .related-posts li a:hover,
+.theme-night .post-title,
+.theme-night .page-title {
+  color: #ffffff;
+}
+.theme-night a.pagination-item:hover {
+  background-color: #333333;
+}
+.theme-night blockquote {
+  color: #cccccc;
+  border-left-color: #cccccc;
+}
