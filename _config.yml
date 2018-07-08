@@ -10,6 +10,7 @@ description:         'Made by <a href="https://twitter.com/rajadain" target="_bl
 url:                 https://rajadain.github.io/
 baseurl:             '/daily-verse'
 paginate:            5
+googleanalytics:     'UA-49051902-3'
 
 github:
   repo:              https://github.com/rajadain/daily-verse
