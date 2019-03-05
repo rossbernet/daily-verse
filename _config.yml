@@ -5,21 +5,21 @@ permalink:           /:year-:month-:day.html
 
 # Setup
 title:               Daily Verse
-tagline:             'a short verse (almost) every day'
-description:         'Made by <a href="https://twitter.com/rajadain" target="_blank">@rajadain</a>.'
-url:                 https://rajadain.github.io/
+tagline:             'a short verse more than never'
+description:         'Made by <a href="https://twitter.com/rosszb" target="_blank">@rajadain</a>.'
+url:                 https://rossbernet.github.io/
 baseurl:             '/daily-verse'
 paginate:            5
 googleanalytics:     'UA-49051902-3'
 
 github:
-  repo:              https://github.com/rajadain/daily-verse
+  repo:              https://github.com/rossbernet/daily-verse
 
 # About/contact
 author:
-  name:              Terence Tuhinanshu
-  url:               https://twitter.com/rajadain
-  email:             terence@tuhinanshu.com
+  name:              Ross Bernet
+  url:               https://twitter.com/rosszb
+  email:             rossbernet@gmail.com
 
 # Custom vars
 version:             1.1.0
