@@ -13,5 +13,4 @@ it's already something.
 
 Idea ~~stolen~~ ~~borrowed~~ inspired by @rajadain
 
-###### Running on [Jekyll](https://jekyllrb.com).   
-###### Theme based on [Lanyon](https://github.com/poole/lanyon) by [@mdo](https://github.com/mdo).
+###### Running on [Jekyll](https://jekyllrb.com). Theme based on [Lanyon](https://github.com/poole/lanyon) by [@mdo](https://github.com/mdo).
