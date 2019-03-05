@@ -6,7 +6,7 @@ permalink:           /:year-:month-:day.html
 # Setup
 title:               Daily Verse
 tagline:             'a short verse more than never'
-description:         'Made by <a href="https://twitter.com/rosszb" target="_blank">@rajadain</a>.'
+description:         'Poems by Ross Bernet. Website by <a href="https://twitter.com/rajadain" target="_blank">@rajadain</a>.'
 url:                 https://rossbernet.github.io/
 baseurl:             '/daily-verse'
 paginate:            5
